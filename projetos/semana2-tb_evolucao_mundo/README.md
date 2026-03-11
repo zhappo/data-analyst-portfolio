@@ -24,6 +24,8 @@ Permitir que o utilizador:
 ├── app/
 │   └── app.py
 ├── data/
+│   ├── raw/
+│   │   └── API_SH.TBS.INCD_DS2_en_csv_v2_1949.csv  # Dados TB do Banco Mundial
 │   └── processed/
 │       └── tb_completo_com_metricas.csv
 ├── exploracao.ipynb
