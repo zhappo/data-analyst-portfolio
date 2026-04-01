@@ -1,4 +1,4 @@
-# 🏠 Análise Imobiliária em Portugal - Semana 5
+# 🏠 Análise Imobiliária em Portugal
 
 Dashboard interativo explorando padrões de preços de imóveis em Portugal com base em 135k+ listagens. Identifica oportunidades de investimento por região, tipo de imóvel e certificado energético.
 

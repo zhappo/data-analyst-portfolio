@@ -1,29 +1,54 @@
 # 💼 Data Analyst Portfolio
 
-**Projetos semanais de análise de dados para transição de carreira.**
+**Projetos de análise de dados para transição de carreira.**
 
-## 📊 Projetos Completos
+## 📊 Projetos
 
-### **🚀 Semana 1: Superstore West**
-[![Dashboard](projetos/semana1-superstore/dashboard.png)](projetos/semana1-superstore/)
+### **01** | Superstore West Dashboard
+[![Dashboard](projeto-01/dashboard.png)](projeto-01/)
+Análise de vendas e performance regional da Superstore West com visualizações interativas.
 
-### **🦠 Semana 2:. Dashboard Tuberculose Mundial (Streamlit + Plotly)**
+---
 
+### **02** | Tuberculose Mundial - Dashboard Streamlit
 Dashboard interativo para análise da evolução da tuberculose por país.
-
-**Funcionalidades:**
 - Filtros por país
 - KPIs de incidência
 - Gráficos de tendência temporal
 - Status de controle por país
 
-### **🦠 Semana 3:. Artigo no LinkedIn**
-[Como os princípios da Arquivologia (Proveniência, Unicidade, Organicidade...) se aplicam a bancos de dados e análise moderna?](https://www.linkedin.com/pulse/arquivologia-na-era-dos-dados-princ%C3%ADpios-antigos-para-osvaldo-okmxe/)]
+[🔗 Acessar projeto](projeto-02/)
 
-### **🏨 Semana 4:. Dashboard Tuberculose Mundial (Streamlit + Plotly)**
-### Semana 4: Hotel Bookings - Revenue Management
-**Análise 119k reservas (2015-2017)**  
-- Resort 28% vs City 42% cancelamentos  
-- Agosto 49% pico sazonal  
-- Lead time >90 dias = 61% risco  
-- 4 visuais PNG + insights acionáveis  
+---
+
+### **03** | Hotel Bookings - Revenue Management
+Análise de 119k reservas (2015-2017)
+- Resort 28% vs City 42% cancelamentos
+- Agosto 49% pico sazonal
+- Lead time >90 dias = 61% risco
+- 4 visuais PNG + insights acionáveis
+
+[🔗 Acessar projeto](projeto-03/)
+
+---
+
+### **04** | Análise de Preços Imobiliários 
+
+Dashboard interativo explorando padrões de preços de imóveis em Portugal com base em 135k+ listagens.
+- Análise por distrito, tipo de imóvel e certificado energético
+- Identificação de oportunidades de investimento por região
+- Preço/m² comparativo (Braga 30.7% mais barata que média)
+- 6 visualizações interativas + filtros dinâmicos
+
+[🔗 Acessar projeto](semana_05/)
+
+---
+
+## 📚 Sobre
+
+Portfolio em construção documentando minha jornada como analista de dados. Cada projeto demonstra técnicas de análise, visualização de dados e storytelling com dados.
+
+**Stack:** Python • Pandas • Plotly • Streamlit • Power BI • SQL
+
+**LinkedIn:** [linkedin.com/in/osvaldo-oliveira-jr](https://www.linkedin.com/in/osvaldo-oliveira-jr/)  
+**GitHub:** [github.com/zhappo](https://github.com/zhappo)
