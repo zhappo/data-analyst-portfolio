@@ -5,7 +5,7 @@
 ## 📊 Projetos
 
 ### **01** | Superstore West Dashboard
-[![Dashboard](projeto-01/dashboard.png)](projeto-01/)
+[![Dashboard](projetos/projeto-01/dashboard.png)](projetos/projeto-01/)
 Análise de vendas e performance regional da Superstore West com visualizações interativas.
 
 ---
@@ -17,7 +17,7 @@ Dashboard interativo para análise da evolução da tuberculose por país.
 - Gráficos de tendência temporal
 - Status de controle por país
 
-[🔗 Acessar projeto](projeto-02/)
+[🔗 Acessar projeto](projetos/projeto-02/)
 
 ---
 
@@ -28,7 +28,7 @@ Análise de 119k reservas (2015-2017)
 - Lead time >90 dias = 61% risco
 - 4 visuais PNG + insights acionáveis
 
-[🔗 Acessar projeto](projeto-03/)
+[🔗 Acessar projeto](projetos/projeto-03/)
 
 ---
 
@@ -40,7 +40,7 @@ Dashboard interativo explorando padrões de preços de imóveis em Portugal com 
 - Preço/m² comparativo (Braga 30.7% mais barata que média)
 - 6 visualizações interativas + filtros dinâmicos
 
-[🔗 Acessar projeto](semana_05/)
+[🔗 Acessar projeto](projetos/projeto-04/)
 
 ---
 
